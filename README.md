@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 Multi-Utility LangGraph PDF Chatbot
 
 A **Streamlit-based conversational AI application** powered by **LangGraph**, **Groq LLM**, and **FAISS**, supporting **PDF-based RAG**, **tool usage**, and **multi-threaded persistent chat history**.
@@ -145,3 +146,6 @@ This project demonstrates a **production-grade LangGraph chatbot** with:
 
 Ideal for real-world conversational AI systems — not just demos.
 
+=======
+# multi-tool-rag-chatbot
+>>>>>>> eb6031ffed5bcfe5935e8344f32c5aa626e5633a
